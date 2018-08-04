@@ -1,0 +1,25 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../simple.xml</include>
+
+	<view name="system">
+
+		<image name="logo">
+		<path>./art/system.png</path>
+		</image>
+		
+	</view>
+
+	<view name="basic, detailed, video, grid">
+		
+		<image name="logo">
+			<path>./art/system.png</path>
+			<pos>0.25 0.020</pos>
+			<size>0.20 0.10</size>
+			<zIndex>77</zIndex>
+		</image>
+	
+	</view>
+
+</theme>
