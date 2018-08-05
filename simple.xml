@@ -96,6 +96,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 		
 		<textlist name="gamelist">
 		
+			<selectorImagePath>./art/selector.png</selectorImagePath>
 			<selectorColor>719CC6</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>dee0e8</primaryColor>
