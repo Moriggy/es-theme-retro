@@ -21,6 +21,17 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 			
 		</image>
 		
+		<!-- Imagen de punteros -->
+		
+		<image name="background2" extra="true">
+		
+			<path>./_pointer/${system.theme}.png</path>
+			<origin>1 0.5</origin>
+			<pos>1 0.5</pos>
+			<size>0.025 0.08</size>
+			
+		</image>
+		
 		<!-- Modo de vista de los sistemas - modo Hypersipin -->
 		
 		<carousel name="systemcarousel">
