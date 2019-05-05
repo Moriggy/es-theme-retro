@@ -143,7 +143,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 		
 			<maxSize>0.35 0.46</maxSize>
 			<pos>0.248 0.445</pos>
-			<zIndex>2</zIndex>
+			<zIndex>3</zIndex>
 			
 		</image>
 
@@ -156,7 +156,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 			<delay>1.5</delay>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>false</showSnapshotDelay>
-			<zIndex>2</zIndex>
+			<zIndex>3</zIndex>
 			
 		</video>
 
