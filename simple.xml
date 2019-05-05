@@ -153,9 +153,9 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 		
 			<maxSize>0.31 0.43</maxSize>
 			<pos>0.248 0.43</pos>
-			<delay>1.5</delay>
+			<delay>0.8</delay>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
-			<showSnapshotDelay>false</showSnapshotDelay>
+			<showSnapshotDelay>true</showSnapshotDelay>
 			<zIndex>3</zIndex>
 			
 		</video>
