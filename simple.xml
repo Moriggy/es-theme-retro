@@ -133,7 +133,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 			<lineSpacing>1.475</lineSpacing>
 			<horizontalMargin>0.05</horizontalMargin>
 			<scrollSound>./art/scroll.wav</scrollSound>
-			<zIndex>2</zIndex>
+			<zIndex>3</zIndex>
 			
 		</textlist>
 		
