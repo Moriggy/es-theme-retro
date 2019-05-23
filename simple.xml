@@ -1,7 +1,10 @@
 <!--
-theme name:		MasOS Theme
-version:		1.0
-author:			My Arcade Spain: Moriggy & Mabedeep
+#############################################
+####		  Theme Retro				 ####
+####	   mod by Moriggy MasOS Team	 ####
+####									 ####
+####		Tipo de vista Wheel			 ####
+#############################################
 -->
 
 <theme>
@@ -80,7 +83,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 		
 	</view>
 		
-	<view name="basic, detailed, video, grid">
+	<view name="basic, detailed, video">
 	
 		<!-- Fondo gamelist -->
 		
@@ -136,7 +139,10 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 			<zIndex>3</zIndex>
 			
 		</textlist>
-		
+	</view>
+	
+	<view name="detailed">
+	
 		<!-- Posicion y tamaño imagen juego -->
 
 		<image name="md_image">
@@ -146,19 +152,31 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 			<zIndex>3</zIndex>
 			
 		</image>
-
-	<!-- Posicion y tamaño del video juego -->
-
-		<video name="md_video">
 		
-			<maxSize>0.31 0.43</maxSize>
-			<pos>0.248 0.43</pos>
-			<delay>0.8</delay>
-			<showSnapshotNoVideo>true</showSnapshotNoVideo>
-			<showSnapshotDelay>true</showSnapshotDelay>
-			<zIndex>3</zIndex>
+	</view>
+	
+	<feature supported="video">
+	
+		<view name="video">
+
+		<!-- Posicion y tamaño del video juego -->
+
+			<video name="md_video">
 			
-		</video>
+				<maxSize>0.31 0.43</maxSize>
+				<pos>0.248 0.43</pos>
+				<delay>0.8</delay>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>true</showSnapshotDelay>
+				<zIndex>3</zIndex>
+				
+			</video>
+			
+		</view>
+		
+	</feature>
+	
+	<view name="detailed, video">
 
 		<!-- Metadatos -->
 		
